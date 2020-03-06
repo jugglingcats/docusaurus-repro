@@ -1,3 +1,4 @@
 /node_modules/
 /packages/example-lib/node_modules/
 /.idea/
+/packages/cra-app/node_modules/

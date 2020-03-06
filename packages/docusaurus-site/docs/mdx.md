@@ -1,6 +1,6 @@
 ---
 id: mdx
-title: Powered by MDX
+title: Local vs Packaged Component
 ---
 
 import {MyComponentLocal} from "./MyComponentLocal"
@@ -8,4 +8,5 @@ import {MyComponentFromPackage} from "@glowbuzzer/example-lib"
 
 Local component: <MyComponentLocal />
 
-<!-- UNCOMMENT TO SEE ISSUE Packaged component: <MyComponentFromPackage /> -->
+Packaged component: <MyComponentFromPackage />
+

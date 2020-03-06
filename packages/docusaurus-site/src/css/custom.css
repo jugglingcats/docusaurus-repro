@@ -1,3 +1,5 @@
+@import '~antd/dist/antd.css';
+
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -22,3 +24,9 @@
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
+
+/*
+body > div {
+  height: auto !important;
+}
+*/

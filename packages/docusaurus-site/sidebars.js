@@ -7,6 +7,6 @@
 
 module.exports = {
   someSidebar: {
-    MDX: ['mdx'],
+    MDX: ['mdx', 'antd'],
   },
 };
